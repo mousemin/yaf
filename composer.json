@@ -1,0 +1,17 @@
+{
+    "require": {
+        "php": ">=7.0",
+        "ext-yaf": "*",
+        "illuminate/database": "^5.8",
+        "monolog/monolog": "^1.24"
+    },
+    "autoload": {
+        "psr-4": {
+            "": "extends",
+            "\\": "app/facades",
+            "app\\services\\": "app/services",
+            "app\\exceptions\\": "app/exceptions",
+            "app\\traits\\": "app/traits"
+        }
+    }
+}
