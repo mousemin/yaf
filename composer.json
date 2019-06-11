@@ -1,7 +1,7 @@
 {
-    "name": "mouse/container",
-    "description": "mouse container",
-    "keywords": [ "container", "psr-11"],
+    "name": "mouse/yaf",
+    "description": "mouse yaf",
+    "keywords": [ "yaf", "framework"],
     "authors": [
         {
             "name": "mouse",
