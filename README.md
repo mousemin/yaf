@@ -20,3 +20,7 @@ web
 ├─public                入口目录
 ├─composer.json         
 ~~~
+
+
+
+### 配置
